@@ -1,0 +1,5 @@
+1084	面向基层警务机构的智能化治安防控指挥平台	http://www.kjhm.org.cn/app/Cresult.aspx?id=1084
+1083	警用综合地理信息系统	http://www.kjhm.org.cn/app/Cresult.aspx?id=1083
+1082	基于物联网的高精度实时定位系统	http://www.kjhm.org.cn/app/Cresult.aspx?id=1082
+1081	电子护照读写设备	http://www.kjhm.org.cn/app/Cresult.aspx?id=1081
+1080	网上公安局（软件）系统V2.0	http://www.kjhm.org.cn/app/Cresult.aspx?id=1080

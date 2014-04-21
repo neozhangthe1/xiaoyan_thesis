@@ -1,0 +1,7 @@
+100	塑料折叠轮椅	http://www.kjhm.org.cn/app/Cresult.aspx?id=100
+99	镁合金轻便轮椅	http://www.kjhm.org.cn/app/Cresult.aspx?id=99
+98	电动升降地面移动辅具	http://www.kjhm.org.cn/app/Cresult.aspx?id=98
+97	免脱穿人体粪便自动清理技术与设备	http://www.kjhm.org.cn/app/Cresult.aspx?id=97
+96	通用型柔性深耳道智能化助听器	http://www.kjhm.org.cn/app/Cresult.aspx?id=96
+95	骨传导助听器	http://www.kjhm.org.cn/app/Cresult.aspx?id=95
+41	四连杆气压阻尼智能假肢膝关节	http://www.kjhm.org.cn/app/Cresult.aspx?id=41

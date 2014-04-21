@@ -1,0 +1,16 @@
+1172	煤矿瓦斯突出预警系统	http://www.kjhm.org.cn/app/Cresult.aspx?id=1172
+1171	兴文县煤矿瓦斯监控系统	http://www.kjhm.org.cn/app/Cresult.aspx?id=1171
+1170	基于矿用人员定位、环境数据监测的矿用联动发爆控制系统	http://www.kjhm.org.cn/app/Cresult.aspx?id=1170
+1169	矿井数字化无线移动可视通讯救援系统	http://www.kjhm.org.cn/app/Cresult.aspx?id=1169
+1168	红外瓦斯检测仪	http://www.kjhm.org.cn/app/Cresult.aspx?id=1168
+1167	煤矿井下安全生产自动化监测、监控和煤矿井下工业电视成套产品研发与中试	http://www.kjhm.org.cn/app/Cresult.aspx?id=1167
+1166	安全生产事故隐患自查自报管理系统	http://www.kjhm.org.cn/app/Cresult.aspx?id=1166
+1165	基于光纤光栅技术多参数煤层底板突水监测系统及预警技术	http://www.kjhm.org.cn/app/Cresult.aspx?id=1165
+1164	企业安全生产事故隐患管控系统	http://www.kjhm.org.cn/app/Cresult.aspx?id=1164
+1163	《直流电阻测试仪与回路电阻测试仪》检定规程	http://www.kjhm.org.cn/app/Cresult.aspx?id=1163
+1162	耐腐蚀高压容器衬里层快速检测技术研究	http://www.kjhm.org.cn/app/Cresult.aspx?id=1162
+1161	碱回收锅炉安全性能综合检验技术研究	http://www.kjhm.org.cn/app/Cresult.aspx?id=1161
+1160	煤矿重大灾害危险源的监测预警装置	http://www.kjhm.org.cn/app/Cresult.aspx?id=1160
+1159	矿井采掘装备故障诊断及安全监测技术及装备	http://www.kjhm.org.cn/app/Cresult.aspx?id=1159
+1158	石门及井筒揭煤突出危险性快速预测技术研究	http://www.kjhm.org.cn/app/Cresult.aspx?id=1158
+1157	高温炉管安全评估及寿命预测	http://www.kjhm.org.cn/app/Cresult.aspx?id=1157

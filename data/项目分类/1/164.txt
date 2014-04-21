@@ -1,0 +1,3 @@
+335	“乐居家”虚拟养老服务系统	http://www.kjhm.org.cn/app/Cresult.aspx?id=335
+334	电动智能护理床	http://www.kjhm.org.cn/app/Cresult.aspx?id=334
+333	Wehealth无线远程监护及健康管理系统	http://www.kjhm.org.cn/app/Cresult.aspx?id=333

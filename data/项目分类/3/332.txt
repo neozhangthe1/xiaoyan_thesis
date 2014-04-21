@@ -1,0 +1,9 @@
+1079	计算机计时培训管理系统	http://www.kjhm.org.cn/app/Cresult.aspx?id=1079
+1078	多功能交通指挥棒	http://www.kjhm.org.cn/app/Cresult.aspx?id=1078
+1077	TC-SCAN绿色通道检查系统	http://www.kjhm.org.cn/app/Cresult.aspx?id=1077
+1076	地感线圈式测速仪检定装置	http://www.kjhm.org.cn/app/Cresult.aspx?id=1076
+1075	沥青路面防水抗油剂的研究与应用	http://www.kjhm.org.cn/app/Cresult.aspx?id=1075
+1074	驾驶安全风险体验训练装备	http://www.kjhm.org.cn/app/Cresult.aspx?id=1074
+1073	交通管理业务自助服务系统	http://www.kjhm.org.cn/app/Cresult.aspx?id=1073
+1072	移动车管所	http://www.kjhm.org.cn/app/Cresult.aspx?id=1072
+1071	南京市智能交通诱导服务系统	http://www.kjhm.org.cn/app/Cresult.aspx?id=1071

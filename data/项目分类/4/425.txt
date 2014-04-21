@@ -1,0 +1,9 @@
+1514	2.05MW风电主增速箱	http://www.kjhm.org.cn/app/Cresult.aspx?id=1514
+1513	象脉风电功率预测预报系统	http://www.kjhm.org.cn/app/Cresult.aspx?id=1513
+1512	风力直驱式大扬程高性能自动气压扬水系统	http://www.kjhm.org.cn/app/Cresult.aspx?id=1512
+1511	风力发电用叶片环氧结构胶黏剂制备技术	http://www.kjhm.org.cn/app/Cresult.aspx?id=1511
+1510	2.5MW-3.5MW风电主轴高效节能制造技术的研究与应用	http://www.kjhm.org.cn/app/Cresult.aspx?id=1510
+1509	风能海水淡化装置研发及其网箱养殖区示范工程	http://www.kjhm.org.cn/app/Cresult.aspx?id=1509
+1508	中小型高指标风力发电机	http://www.kjhm.org.cn/app/Cresult.aspx?id=1508
+1507	风电准并网自备电厂和风电准并网分布电站	http://www.kjhm.org.cn/app/Cresult.aspx?id=1507
+1506	新型变速风力发电机系统	http://www.kjhm.org.cn/app/Cresult.aspx?id=1506
